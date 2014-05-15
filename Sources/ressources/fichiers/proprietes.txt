@@ -1,0 +1,9 @@
+temps_intertour=1
+temps_tour=20
+max_joueur=10
+temps_partie_rejoignable=25
+temps_commencer_partie_salle_pleine=5
+nombre_cartes=7
+temps_affichage_resultats=15
+score_defaite=500
+messages=Logiciel conçu et développé par Rui Lu et Alexis Deprez&LO02 : Principe et pratique de la programmation objets (Automne 2013) - Université de Technologie de Troyes&contact : deprez.alexis@laposte.net

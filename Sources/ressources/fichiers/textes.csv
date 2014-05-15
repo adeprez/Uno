@@ -1,0 +1,93 @@
+// Français ; Anglais ; Chinois ; Espagnol ; Portugais
+;;;;
+;;;;
+Changer de langue;Change language;更改语言;Cambiar idioma;Alterar idioma
+gagne le jeu avec;wins the game with;与赢得比赛;gana el juego;ganha o jogo
+points;points;分;puntos;pontos
+Cette partie est déjà lancée;This game is already started;此游戏已经开始;Este juego ya está en marcha;Este jogo já foi lançado
+Informations;Informations;信息;Informaciónes;Informações
+Quitter;Quit;退出;Salir;Deixar
+Voulez-vous vraiment quitter ?;Do you really want to quit ?;你真的要退出吗？;¿Quieres realmente salir ?;Você realmente deseja sair?
+dit;says;说;dice;disse
+Vous ne pouvez pas ecrire plus que;You can't write more than;你不能写超过;No se puede escribir más que;Não pode escrever mais de
+caracteres;characters;字符;caracteres;impressãos
+Accueil;Home;家;Menú;Início
+Jouer;Play;玩;Juegar;Jogar
+joueurs;players;玩家;jugadores;jogadores
+Partie hors ligne;Play offline;离线玩;Juego desconectado;Jogo desligada
+Partie en ligne;Play online;在线玩;Juego online;Jogo online
+Règles du jeu;Game rules;游戏规则;Reglas del juego;Regras do jogo
+Retour;Back;回归;Retorno;Retornar
+Creer une salle;Create a game room;创建一个游戏室;Crear una sala de juego;Criar uma sala
+Nouvelle partie;New game;新游戏;Nuevo juego;Nova jogo
+Creer la salle;Create game room;创建游戏房间;Crear la sala de juego;Criar sala
+Classique;Standard;标准;Clásico;Clássico
+Duel;Duel;决斗;Duel;Duelo
+Equipes;Team;团队;Equipos;Equipes
+Challenge;Challenge;挑战;Desafío;Desafio
+Votre nom;Your name;你的名字;Su nombre;Seu nome
+Nom de la salle;Room name;室名;Nombre de la sala de juego;Nome da sala
+Mode de jeu;Game mode;游戏模式;Modo de juego;Modo de jogo
+Nombre de joueurs;Number of Players;玩家人数;Número de jugadores;Número de jogadores
+Vous devez entrer votre nom;You have to put your name;您必须输入您的姓名;Debe introducir su nombre;Deve digitar o seu nome
+Vous devez entrer un nom pour cette salle;You have to put a name for this room;你必须为这个房间输入名字;Debe introducir un nombre para este sala de juego;Deve digitar um nome para este sala
+Impossible de creer la salle;Unable to create game room;无法创建游戏房间;No se puede crear la habitación sala de juego;Não é possível criar sala
+C'est votre tour de jouer;It's your turn to play;轮到你玩;Es su turno;É sua vez
+Votre tour est fini;Your turn is over;你的回合结束;Su turno ha terminado;Sua vez acabou
+Vous pouvez rejouer;You can play again;您可以重新玩;Puedes jugar de nuevo;Você pode repetir
+Chat;Chat;聊天;Chat;Chat
+Rejoindre une salle;Join a game room;加入一间游戏室;Únete a una sala de juegos;Junte-se a uma sala
+Creer une salle;Create a game room;创建一个游戏室;Crear una sala de juegos;Criar uma sala
+Rejoindre;Join;加入;participar;Juntar
+Rafraichir;Refresh;刷新;Actualizar;Atualizar
+Cette partie n'est plus disponible;This game room is no longer available;这游戏室不再可用;Esta juego ya no está disponible;Esta jogo não está mais disponível
+Resultats;Results;结果;Resultados;Resultados
+Equipe;Team;团队;Equipo;Equipe
+Joueurs de;Players of;玩家;Jugadores de;Jogadores de
+Adresse pour rejoindre la partie;Address to join the game room;地址加入游戏室;Discurso para unirse al juego;Endereço para entrar no jogo
+Donnez cette adresse a vos amis afin qu'ils puissent rejoindre vos parties;Give this address to your friends to allow them to join you;给这个地址给你的朋友，让他们加入你;Da esto a sus amigos para que puedan unirse a su juego;Dê isto a seus amigos para que eles possam participar do seu jogo
+rejoint la salle;joins the game room;加入游戏室;se unido a la sala de juegos;junta-se à sala
+quitte la salle;leaves the game room;离开游戏室;deja la sala de juegos;sai da sala
+Salle de jeu trouvée;Game room found;游戏室找到;Sala de juegos encontrada;Sala de jogos encontrada
+Lancer;Start;开始;Comenzar;Iniciar
+Scores;Scores;分数;Resultados;Scores
+Une nouvelle partie commence dans;A new game starts in;一个新的游戏开始在;Un nuevo juego se inicia en;Um novo jogo começa em
+secondes;seconds;秒;segundos;segundos
+La partie va commencer;The game will begin soon;本场比赛即将开始;El juego se iniciará;O jogo vai começar
+Adresses connues;Known addresses;已知的地址;Direcciones conocidas;Endereços conhecidos
+mon IP;my IP;我的IP;mi IP;Meu IP
+Hors ligne;Offline;当前离线;desconectado;Desconectado
+Ajouter une adresse;Add an address;添加一个地址;Añadir una dirección;Adicionar um endereço
+Entree pour changer le nom du joueur;Press Enter to change player's name;按Enter键来改变玩家的名字;Enter para cambiar el nombre del jugador;Enter para alterar o nome do jogador
+Cliquez pour changer;Click to change;单击更改;Haga clic para cambiar;Clique para mudar
+Recherche d'un joueur;Searching a player;搜索玩家;Buscando un jugador;Procurando jogador
+Humain;Human;人的;Humano;Humano
+Ordinateur;Computer;电脑;Ordenador;Computador
+Joueur reseau;Network player;网络播放器;Jugador de Red;Jogador de rede
+rouge;red;红色;rojo;vermelho
+vert;green;绿色;verde;verde
+bleu;blue;蓝色;azul;azul
+jaune;yellow;黄色;amarillo;amarelo
+Inversion;Reverse;反向;Inversión;Inversão
+Joker;Joker;小丑;Bromista;Coringa
+Passe-tour;Skip-turn;跳转;Circule;Passar rodada
+Contre;Against;针对;Contra;Contra
+Fin tour;End of turn;回合结束;Fin turno;fim de sua vez
+Bluffer;Bluff;虚张声势;Farol;Blefar
+Piocher;Draw a card;抽一张牌;Dibujar;Comprar
+pioche;draw;画;dibuja;compra
+cartes;cards;牌;tarjetas;cartões
+piocher et passer son tour, ou tenter un contre-bluff;pick and pass or attempt a bluff against;挑去转弯或试图虚张声势反对;recoger e ir turno o intentar un farol contra;escolher e passar sua vez, ou tentar um blefe contra
+Choisir une couleur;Choose a color;选择颜色;Elegir un color;Escolhar uma cor
+passer son tour;pass;路人儿子游;pasar su torno;passar sua vez
+gagnant;winner;胜利者;ganador;vencedor
+Partie;Game;游戏;Juego;Jogo
+L'equipe;Team;团队;Equipo;La equipe
+gagne le jeu avec;wins the game with;赢得游戏;gana el juego con;ganha o jogo com
+Langue;Language;语言;Idioma;Idioma
+Choisir une langue;Choose a language;选择语言;Elegir un idioma;Selecionar um idioma
+Francais;French;法语;Francés;Francês
+Anglais;English;英语;Inglés;Inglês
+Chinois;Chinese;中文;Chino;Chinês
+Espagnol;Spanish;西班牙语;Español;Espanhol
+Portugais;Portuguese;葡萄牙语;Portugués;Português
